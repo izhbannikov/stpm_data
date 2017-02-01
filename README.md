@@ -1,4 +1,4 @@
-This repository contains simulated data and script used for the manuscript "stpm: an R-package for Stochastic Process Model"
+This repository contains simulated data and scripts used for the manuscript "stpm: an R-package for Stochastic Process Model"
 
 * Folder spm_sim contains data and scripts for one-dimensional simulation tests.
 * Folder spm_sim2 contains data and scripts for two-dimensional simulations tests.
